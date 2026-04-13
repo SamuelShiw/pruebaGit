@@ -1,1 +1,1 @@
-Proyecto de práctica Git
+Proyecto de práctica Git desde rama
